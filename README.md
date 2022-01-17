@@ -1,6 +1,6 @@
 # MotherTerarosa
 
-## oo 프로젝트 Front-end/Back-end 소개
+## 프로젝트 Front-end/Back-end 소개
 
 - 순수 국내 커피 체인점인 [테라로사](https://terarosa.com/) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/기획 부분만 클론했습니다.
