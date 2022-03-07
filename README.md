@@ -45,10 +45,8 @@
 
 #### 공통
 
-- User flow
-[User flow](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#0cc54341de5f48c4aa3e1049fb9544ae)
-- ERD
-[ERD](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#d278ed5703b04c9cb4a920357c2cbae3)
+- [User flow](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#0cc54341de5f48c4aa3e1049fb9544ae)
+- [ERD](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#d278ed5703b04c9cb4a920357c2cbae3)
 
 ### 프로젝트 아키텍쳐 소개
 
