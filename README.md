@@ -11,11 +11,10 @@
 
 - 개발기간 : 2021/12/27 ~ 2022/01/07
 - 개발 인원 : 프론트엔드 3명, 백엔드 3명
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/28-westagram-backend-4-team)
 
 ### 데모 영상(이미지 클릭)
 
-- [데모 영상](https://wecode-bootcamp.slack.com/files/U02HVJ9LFGW/F02TF34RZQ9/motherterarosa_frontend.mov)
+- [데모 영상]
 
 <br>
 
@@ -47,6 +46,8 @@
 
 - [User flow](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#0cc54341de5f48c4aa3e1049fb9544ae)
 - [ERD](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#d278ed5703b04c9cb4a920357c2cbae3)
+- ![ERD_modeling](https://user-images.githubusercontent.com/93478318/157438417-c2fc4418-da52-4cf9-9a86-ea333715b142.png)
+
 
 ### 프로젝트 아키텍쳐 소개
 
