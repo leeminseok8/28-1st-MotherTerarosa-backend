@@ -45,8 +45,9 @@
 #### 공통
 
 - [User flow](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#0cc54341de5f48c4aa3e1049fb9544ae)
+ ![ERD_modeling](https://user-images.githubusercontent.com/93478318/157438305-f3c05d76-0af0-4f21-a01f-f8e3fcf95b6b.png)
 - [ERD](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#d278ed5703b04c9cb4a920357c2cbae3)
-- ![ERD_modeling](https://user-images.githubusercontent.com/93478318/157438417-c2fc4418-da52-4cf9-9a86-ea333715b142.png)
+ ![ERD_modeling](https://user-images.githubusercontent.com/93478318/157438417-c2fc4418-da52-4cf9-9a86-ea333715b142.png)
 
 
 ### 프로젝트 아키텍쳐 소개
